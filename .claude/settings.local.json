@@ -1,0 +1,22 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:claude.ai)",
+      "Bash(git -C \"C:\\\\Users\\\\roger\\\\Documents\\\\Survey_right\" log --oneline --all)",
+      "WebSearch",
+      "Bash(node:*)",
+      "Bash(ls:*)",
+      "Bash(go get:*)",
+      "Bash(go mod tidy:*)",
+      "Bash(go build:*)",
+      "Bash(\"C:\\\\Users\\\\roger\\\\Documents\\\\Survey_right\\\\mobile\\\\build\\\\windows\\\\x64\\\\runner\\\\Debug\\\\survey_mobile.exe\")",
+      "Bash(python:*)",
+      "Bash(npx ng build:*)",
+      "Bash(netstat:*)",
+      "Bash(findstr:*)",
+      "Bash(taskkill:*)",
+      "Bash(npx ng serve)",
+      "Bash(flutter run:*)"
+    ]
+  }
+}
